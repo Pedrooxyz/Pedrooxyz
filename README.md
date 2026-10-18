@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Ribeiro
 
-- 💡 Passionate about **Artificial Intelligence**, **Data Science**, and **Software Development**  
+- 💡 Passionate about **Cybersecurity**, **Distributed Systems**, and **Software Development**  
 - 🚀 Always looking to learn new technologies and build useful projects  
 - 🔍 I enjoy solving complex problems with simple solutions  
 - 🧩 Experienced in **C#**, **C**, **C++**, **SQL**, **Python** and **JavaScript**
